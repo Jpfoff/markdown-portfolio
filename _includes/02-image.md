@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Panda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8Z5i8m2b1G6Z5_image-result-for-panda-png-giant-panda%2F&psig=AOvVaw2nrKY1FbF4sZa90De0K69V&ust=1629932865061000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCMxp_jyvICFQAAAAAdAAAAABAD)
